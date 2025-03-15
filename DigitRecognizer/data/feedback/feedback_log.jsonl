@@ -1,0 +1,5 @@
+{"prediction": {"digit": 5, "confidence": 99.8503565788269, "time": "2025-03-15T18:15:36.806788"}, "is_correct": true, "timestamp": "2025-03-15T18:15:50.550727", "image_path": "data\\feedback\\digit_5_1742033750.png"}
+{"prediction": {"digit": 1, "confidence": 99.64864253997803, "time": "2025-03-15T20:12:59.908116"}, "is_correct": true, "timestamp": "2025-03-15T20:13:01.816541", "image_path": "data\\feedback\\digit_1_1742040781.png"}
+{"prediction": {"digit": 1, "confidence": 93.03377270698547, "time": "2025-03-15T22:39:41.270290"}, "is_correct": false, "timestamp": "2025-03-15T22:39:44.994435", "image_path": "data\\feedback\\digit_1_1742049584.png"}
+{"prediction": {"digit": 5, "confidence": 40.57917296886444, "time": "2025-03-15T22:39:49.112940"}, "is_correct": false, "timestamp": "2025-03-15T22:39:50.674838", "image_path": "data\\feedback\\digit_5_1742049590.png"}
+{"prediction": {"digit": 8, "confidence": 87.6901924610138, "time": "2025-03-15T22:39:58.213838"}, "is_correct": true, "timestamp": "2025-03-15T22:40:00.731609", "image_path": "data\\feedback\\digit_8_1742049600.png"}
